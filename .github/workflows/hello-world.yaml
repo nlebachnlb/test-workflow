@@ -1,7 +1,7 @@
 name: Hello World
 on:
   push:
-    path:
+    paths:
       - '**.js'
     branches: 
       - 'main'
